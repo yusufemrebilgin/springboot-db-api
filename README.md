@@ -12,8 +12,6 @@ This is a simple CRUD (Create, Read, Update, Delete) REST API project build with
 
 ## Endpoints
 
-<div align="center">
-
 | HTTP Method | Endpoint | Description |
 |-------------|----------|-------------|
 | GET         | /api/employees | Retrieve all the employees. |
@@ -21,7 +19,6 @@ This is a simple CRUD (Create, Read, Update, Delete) REST API project build with
 | POST        | /api/employees | Create a new employee. |
 | PUT         | /api/employees/{id} | Update an existing employee. |
 | DELETE      | /api/employees/{id} | Delete a specific employee by ID. |
-</div>
 
 ## Images
 
